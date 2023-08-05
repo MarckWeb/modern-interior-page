@@ -2,7 +2,6 @@ const button = document.getElementById('button');
 const nav = document.getElementById('navigation__navbar')
 const links = [...nav.querySelectorAll('a')]
 let currentURL = window.location.href;
-console.log(currentURL)
 
 button.addEventListener('click', () => {
     nav.classList.toggle('navigation__navbar--active')
