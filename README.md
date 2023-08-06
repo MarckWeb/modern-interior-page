@@ -30,16 +30,19 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo?
+ Where can I see your demo?
+  You can see the demo in the link or directly on the devChallenge.io page
 - What was your experience?
+  muy buena, ya que en lo personal estoy practicando sass.
 - What have you learned/improved?
-- Your wisdom? :)
+  especially to work with figma designs seeing their px, sizes and that it comes out as is.
 
 ### Built With
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
 - [sass](https://sass/)
+- [js](http://vanilla-js.com/)
 - [rollup](https:rollup)
 
 ## Features
@@ -48,12 +51,6 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 This application/site was created as a submission to a [DevChallenges](https://devchallenges.io/challenges) challenge. The [challenge](https://devchallenges.io/challenges/Jymh2b2FyebRTUljkNcb) was to build an application to complete the given user stories.
 
-## Acknowledgements
 
-<!-- This section should list any articles or add-ons/plugins that helps you to complete the project. This is optional but it will help you in the future. For exmpale -->
-
-- [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
-- [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
 
 
